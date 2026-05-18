@@ -1,0 +1,26 @@
+# datasets
+dataset/
+Anti-UAV-RGBT/
+Anti-UAV-RGBT-yolo/
+MultiUAV_Test/
+track1_test/
+train/
+subset/
+subset_test/
+
+# training outputs
+runs/
+*.pt
+
+# images/results
+*.png
+*.jpg
+*.jpeg
+results.csv
+
+# python
+__pycache__/
+*.pyc
+
+# virtual env
+.venv/

@@ -1,0 +1,5 @@
+train: C:/Users/maghr/OneDrive/Desktop/basel/subset/images/train
+val: C:/Users/maghr/OneDrive/Desktop/basel/subset/images/val
+
+nc: 1
+names: ['drone']
