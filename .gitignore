@@ -13,7 +13,6 @@ runs/
 *.pt
 
 # images/results
-*.png
 *.jpg
 *.jpeg
 results.csv
